@@ -1,0 +1,3 @@
+xt=auto eol=lf
+*.png binary
+*.jpg binary
